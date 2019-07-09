@@ -1,0 +1,307 @@
+[
+    {
+        "id":11,
+        "sign":"xj",
+        "name":"4K摄像机",
+        "list":[{
+            "id":111,
+            "sign":"xj",
+            "desc":"",
+            "img_url":"/static/images/more/sxj-big-1.jpg",
+            "name":"松下 AG-DVX200MC摄像机 4K摄像机",
+            "price":"150.00 元/天"
+        },{
+            "id":112,
+            "desc":"",
+            "sign":"xj",
+            "img_url":"/static/images/more/sxj-big-2.jpg",
+            "name":"BMD BMPC 4K 高清电影摄像机 电影机",
+            "price":"50.00 元/天"
+        },{
+            "id":113,
+            "sign":"xj",
+            "desc":"",
+            "img_url":"/static/images/more/sxj-big-3.jpg",
+            "name":"索尼 Sony PXW-FS7 高清4K摄像机索尼fs7",
+            "price":"200.00 元/天"
+        }]
+    },{
+        "id":12,
+        "name":"电影机",
+        "sign":"xj",
+        "list":[{
+            "id":121,
+            "sign":"xj",
+            "desc":"",
+            "img_url":"/static/images/more/dyj-big-1.jpg",
+            "name":"ARRI ALEXA MINI 阿莱艾丽莎迷你摄影机电影机",
+            "price":"2000.00 元/天"
+        },{
+            "id":122,
+            "desc":"",
+            "sign":"xj",
+            "img_url":"/static/images/more/dyj-big-2.jpg",
+            "name":"BMD BMPC 4K 高清电影摄像机 电影机",
+            "price":"50.00 元/天"
+        },{
+            "id":123,
+            "sign":"xj",
+            "desc":"",
+            "img_url":"/static/images/more/dyj-big-3.png",
+            "name":"BMD URSA Mini Pro 4.6K EF电影摄像机",
+            "price":"149.00 元/天"
+        },{
+            "id":124,
+            "desc":"",
+            "sign":"xj",
+            "img_url":"/static/images/more/dyj-big-4.png",
+            "name":"RED SCARLET-W小武器5K摄影机摄像机电影机",
+            "price":"1200.00 元/天"
+        },{
+            "id":125,
+            "desc":"",
+            "sign":"xj",
+            "img_url":"/static/images/more/dyj-big-5.png",
+            "name":"RED RAVEN 4.5K 电影摄影机摄像机red 乌鸦",
+            "price":"249.00 元/天"
+        }]
+    },{
+        "id":13,
+        "name":"专业级",
+        "sign":"wrj",
+        "list":[{
+            "id":131,
+            "desc":"",
+            "sign":"wrj",
+            "img_url":"/static/images/more/wrj-big-1.png",
+            "name":"DJI大疆 精灵Phantom4pro航拍飞机无人机",
+            "price":"2000.00 元/天"
+        },{
+            "id":132,
+            "desc":"",
+            "sign":"wrj",
+            "img_url":"/static/images/more/wrj-big-2.jpg",
+            "name":"DJI大疆 悟 INSPIRE 1四轴航拍飞机 无人机",
+            "price":"399.00 元/天"
+        }]
+    },{
+        "id":14,
+        "name":"切换台",
+        "sign":"qht",
+        "list":[{
+            "id":141,
+            "desc":"",
+            "sign":"qht",
+            "img_url":"/static/images/more/qht-big-1.jpg",
+            "name":"松下AG-HMX100MC 7路高清切换台",
+            "price":"199.00 元/天"
+        },{
+            "id":142,
+            "desc":"",
+            "sign":"qht",
+            "img_url":"/static/images/more/qht-big-2.jpg",
+            "name":"松下410 9路高清切换台",
+            "price":"600.00 元/天"
+        }]
+    },{
+        "id":15,
+        "name":"调音台",
+        "sign":"tyt",
+        "list":[{
+            "id":151,
+            "desc":"",
+            "sign":"tyt",
+            "img_url":"/static/images/more/tyt-big-1.jpg",
+            "name":"Yamaha/雅马哈 MG12XU 12路带效果调音台演出",
+            "price":"49.00 元/天"
+        }]
+    },{
+        "id":16,
+        "name":"提词器",
+        "sign":"tcq",
+        "list":[{
+            "id":161,
+            "desc":"",
+            "img_url":"/static/images/more/tcq-big-1.jpg",
+            "name":"易视屹视22寸单屏一体式提词器题词器字幕机读稿器带屏脚架",
+            "price":"150.00 元/天"
+        }]
+    },{
+        "id":17,
+        "name":"录像机",
+        "sign":"lxj",
+        "list":[{
+            "id":171,
+            "desc":"",
+            "sign":"lxj",
+            "img_url":"/static/images/more/lxj-big-1.png",
+            "name":"ATOMOS 阿童木将军烈焰4K监视器记录仪录机",
+            "price":"99.00 元/天"
+        },{
+            "id":172,
+            "desc":"",
+            "sign":"lxj",
+            "img_url":"/static/images/more/lxj-big-2.png",
+            "name":"http://www.comefilm.com/public/images/goods/2016112815070238266_200x200.png",
+            "price":"99.00 元/天"
+        },{
+            "id":173,
+            "desc":"",
+            "sign":"lxj",
+            "img_url":"/static/images/more/lxj-big-3.png",
+            "name":"阿童木Atomos NiJia blade元监视器记录仪录机",
+            "price":"99.00 元/天"
+        },{
+            "id":174,
+            "desc":"",
+            "sign":"lxj",
+            "img_url":"/static/images/more/lxj-big-4.jpg",
+            "name":"ATOMOS阿童木SUMO相扑19寸高清4K大监视器记录仪",
+            "price":"99.00 元/天"
+        }]
+    },{
+        "id":18,
+        "name":"内存卡",
+        "sign":"cc",
+        "list":[{
+            "id":181,
+            "sign":"cc",
+            "desc":"",
+            "img_url":"/static/images/more/cc-big-1.png",
+            "name":"miniGSDCFC-fast TF12864G存储卡内存卡",
+            "price":"5.00 元/天"
+        }]
+    },{
+        "id":19,
+        "name":"记录仪",
+        "sign":"jly",
+        "list":[{
+            "id":191,
+            "desc":"",
+            "sign":"jly",
+            "img_url":"/static/images/more/jly-big-1.png",
+            "name":"ATOMOS 阿童木将军烈焰4K监视器记录仪录机",
+            "price":"99.00 元/天"
+        },{
+            "id":192,
+            "desc":"",
+            "sign":"jly",
+            "img_url":"/static/images/more/jly-big-2.png",
+            "name":"ATOMOS 阿童木将军火焰4K录机监视器记录仪",
+            "price":"99.00 元/天"
+        },{
+            "id":193,
+            "desc":"",
+            "sign":"jly",
+            "img_url":"/static/images/more/jly-big-3.png",
+            "name":"阿童木Atomos NiJia blade元监视器记录仪录机",
+            "price":"25.00 元/天"
+        },{
+            "id":194,
+            "desc":"",
+            "sign":"jly",
+            "img_url":"/static/images/more/jly-big-4.jpg",
+            "name":"ATOMOS阿童木SUMO相扑19寸高清4K大监视器记录仪",
+            "price":"99.00 元/天"
+        },{
+            "id":195,
+            "desc":"",
+            "sign":"jly",
+            "img_url":"/static/images/more/jly-big-5.jpg",
+            "name":"奥德赛Odyssey 7Q+ 记录仪 4K录机监视器",
+            "price":"150.00 元/天"
+        }]
+    },{
+        "id":20,
+        "name":"线",
+        "sign":"xian",
+        "list":[{
+            "id":201,
+            "desc":"",
+            "sign":"xian",
+            "img_url":"/static/images/more/xian-big-1.png",
+            "name":"佳耐美SDI电缆 高清摄像机线 HD-SDI",
+            "price":"5.00 元/天"
+        }]
+    },{
+        "id":21,
+        "name":"电池",
+        "sign":"dc",
+        "list":[{
+            "id":211,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-1.png",
+            "name":"影宸RL-130S 锂电池 大电池 灯光电池 充电器 摄像机",
+            "price":"9.90 元/天"
+        },{
+            "id":212,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-2.png",
+            "name":"佳能相机电池E6电池",
+            "price":"7.00 元/天"
+        },{
+            "id":213,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-3.jpg",
+            "name":"大疆精灵4pro航拍飞机电池",
+            "price":"9.90 元/天"
+        },{
+            "id":214,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-4.jpg",
+            "name":"索尼SONY U30电池 U60 FS7 EX280电池",
+            "price":"7.00 元/天"
+        },{
+            "id":215,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-5.jpg",
+            "name":"sony索尼 F970 F770电池监视器 摄像灯光电池",
+            "price":"5.00 元/天"
+        },{
+            "id":216,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-6.png",
+            "name":"索尼相机电池a7s电池",
+            "price":"7.00 元/天"
+        },{
+            "id":217,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-7.png",
+            "name":"大疆御航拍飞机电池",
+            "price":"7.00 元/天"
+        },{
+            "id":218,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-8.jpg",
+            "name":"大疆spark飞机电池2块",
+            "price":"19.00 元/天"
+        },{
+            "id":219,
+            "desc":"",
+            "sign":"dc",
+            "img_url":"/static/images/more/dc-big-9.png",
+            "name":"大疆spark飞机电池2块",
+            "price":"5.00 元/天"
+        }]
+    },{
+        "id":22,
+        "name":"反光板",
+        "sign":"fgb",
+        "list":[{
+            "id":221,
+            "desc":"",
+            "sign":"fgb",
+            "img_url":"/static/images/more/fgb-big-1.jpg",
+            "name":"椭圆形反光板80*120cm补光板五合一柔光板便携折叠手提摄",
+            "price":"10.00 元/天"
+        }]
+    }
+]

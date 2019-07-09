@@ -1,0 +1,42 @@
+[
+    {
+        "id":111,
+        "desc":"",
+        "name":"松下 AG-DVX200MC摄像机 4K摄像机",
+        "price":"150.00 元/天",
+        "rental_num":20,
+        "dis_counts":"优惠：1天 200.00元/天， 2天 180.00元/天， 3天 162.00元/天， 之后续租 150.00元/天                        ",
+        "files":[
+            {
+                "img_url":"/static/images/detail/111/111-item-1.jpg"
+            },{
+                "img_url":"/static/images/detail/111/111-item-2.jpg"
+            }
+        ],
+        "particulars":[
+            {"img_url":"/static/images/detail/111/111-particulars-1.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-2.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-3.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-4.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-5.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-6.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-7.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-8.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-9.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-10.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-11.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-12.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-13.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-14.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-15.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-16.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-17.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-18.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-19.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-20.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-21.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-22.jpg"},
+            {"img_url":"/static/images/detail/111/111-particulars-23.jpg"}
+        ]
+    }
+]
